@@ -4,3 +4,9 @@ header{
     padding: 20px;
     border-radius: 10px;
 }
+footer ul{
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    justify-content: space-between;
+}
